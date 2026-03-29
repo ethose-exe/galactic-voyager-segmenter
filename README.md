@@ -18,4 +18,4 @@ This project uses **Unsupervised Machine Learning (K-Means)** to segment interst
 * **Strategic Thinking:** Mapping clusters to business marketing strategies.
 
 ---
-*Created by [Your Name] | Data Science Portfolio*
+*Created by [Anurini Mukherji] | Data Science Portfolio*
