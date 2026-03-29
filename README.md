@@ -1,4 +1,12 @@
 # 🚀 Galactic Voyager Segmenter
+![Stars](https://img.shields.io/github/stars/anurini/galactic-voyager-segmenter?style=for-the-badge&color=gold)
+![Python](https://img.shields.io/badge/Python-3.9+-black?style=for-the-badge&logo=python)
+![ML](https://img.shields.io/badge/Machine_Learning-K--Means-blueviolet?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Verified-green?style=for-the-badge)
+
+> **Strategic Note:** I've implemented a high-stakes segmentation model for interstellar travel.
+>
+> # 🚀 Galactic Voyager Segmenter
 ### *AI-Powered Intelligence for the Future of Space Travel*
 
 ## 🎯 Project Overview
